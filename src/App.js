@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        Первое занятие понравилось всем, но пришлось отпроситься. Хотелось бы чтобы занятие записывалось на видео полностью, чтобы можно было потом восстановить контекст, если пришлось отпрашиваться с занятия.
         </p>
         <a
           className="App-link"
